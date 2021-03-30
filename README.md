@@ -1,7 +1,7 @@
 # Study Path
 
 ## Code design
-* [Clean Code - Robert martin](https://amzn.to/3u4A3BH) [BOOK][ENG]
+* [Clean Code - Robert Martin](https://amzn.to/3u4A3BH) [BOOK][ENG]
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) [BOOK][ENG]
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) [ARTICLE][ENG]
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) [VIDEO][ENG]
@@ -15,6 +15,10 @@
 * [Continuous Integration vs Feature Branch Workflow - Dave Farley](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=1s) [VIDEO][ENG]
 * Journal: [Vivere per raccontarla: l’importanza del daily journal in un team agile - Pietro di Bello](https://vimeo.com/195952480) [VIDEO][ITA]
 * Collective ownership: [I terribili “guardiani della codebase” - Paolo D’Incau](https://vimeo.com/259162101) [VIDEO][ITA]
+
+## Agile
+* Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) [ARTICLE][ENG]
+* Agile: [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) [ARTICLE][ENG]
 
 ## Achitectures
 * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) [VIDEO][ITA]
