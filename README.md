@@ -2,6 +2,7 @@
 
 ## Code design
 * [Clean Code - Robert martin](https://amzn.to/3u4A3BH) [BOOK][ENG]
+* [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) [BOOK][ENG]
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) [ARTICLE][ENG]
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) [VIDEO][ENG]
 * [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) [ARTICLE][ENG]
