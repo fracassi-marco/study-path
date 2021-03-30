@@ -22,3 +22,4 @@
 
 ## Misc
 * [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) [VIDEO][ITA]
+* [I terribili “guardiani della codebase” - Paolo D’Incau](https://vimeo.com/259162101) [VIDEO][ITA]
