@@ -10,7 +10,7 @@
 ## Practices
 * [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) [BOOK][ENG]
 * Split user story: [Responsive design e analisi XP by Matteo Vaccari](https://www.youtube.com/watch?v=4L9aL_W-Uo0) [VIDEO][ITA]
-* [Continuous Integration vs Feature Branch Workflow - Dave Farley](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=1s) [VIDEO][ENG
+* [Continuous Integration vs Feature Branch Workflow - Dave Farley](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=1s) [VIDEO][ENG]
 * Journal: [Vivere per raccontarla: l’importanza del daily journal in un team agile - Pietro di Bello](https://vimeo.com/195952480) [VIDEO][ITA]
 
 ## Achitectures
