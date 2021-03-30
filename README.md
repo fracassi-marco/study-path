@@ -19,4 +19,4 @@
 * Event sourcing and testing: [Come testare il comportamento del dominio- Alessandro Colla e Alberto Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) [VIDEO][ITA]
 
 ## Misc
-* [Agile Day 2008: Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) [VIDEO][ITA]
+* [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) [VIDEO][ITA]
