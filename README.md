@@ -19,6 +19,7 @@
 ## Agile
 * Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) [ARTICLE][ENG]
 * Agile: [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) [ARTICLE][ENG]
+* [Perché è così difficile fare Extreme Programming - Matteo Vaccari](https://vimeo.com/113090009) [VIDEO][ENG]
 
 ## Achitectures
 * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) [VIDEO][ITA]
