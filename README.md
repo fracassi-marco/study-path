@@ -6,6 +6,7 @@
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) [ARTICLE][ENG]
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) [VIDEO][ENG]
 * [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) [ARTICLE][ENG]
+* [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://amzn.to/3sClncL) [BOOK][ENG]
 * Legacy code: [Surviving a legacy codebase: tactics and tools - Paolo D'Incau, Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw) [VIDEO][ENG]
 
 ## Practices
