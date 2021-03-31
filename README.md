@@ -29,7 +29,7 @@
 ## Tech
 
 ### Cloud Native
-* [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU)
+* [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU) [VIDEO][ENG]
 
 ### Persistence
 * [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) [VIDEO][ITA]
