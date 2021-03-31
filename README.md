@@ -26,5 +26,10 @@
 * CQRS and event sourcing: [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) [VIDEO][ITA]
 * Event sourcing and testing: [Come testare il comportamento del dominio- Alessandro Colla e Alberto Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) [VIDEO][ITA]
 
-## Misc
+## Tech
+
+### Cloud Native
+* [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU)
+
+### Persistence
 * [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) [VIDEO][ITA]
