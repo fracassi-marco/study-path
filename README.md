@@ -36,3 +36,6 @@
 
 ### IA/Machine learning
 * [Il Machine Learning spiegato agli umani - Paolo Perrotta](https://www.youtube.com/watch?v=V55B3thsz3I) [VIDEO][ITA]
+
+### Versioning
+* [Understanding Git - Paolo Perrotta](https://www.youtube.com/watch?v=nHkLxts9Mu4) [VIDEO][ENG]
