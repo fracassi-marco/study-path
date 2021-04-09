@@ -7,7 +7,7 @@
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) [VIDEO][ENG]
 * [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) [ARTICLE][ENG]
 * [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://amzn.to/3sClncL) [BOOK][ENG]
-* [OOP Principles: Composition vs Inheritance - Dave Crabbe](https://www.youtube.com/watch?v=RiRrcCUyn4M) [VIDEO][ENG]
+* [OOP Principles: Composition vs Inheritance - Dave Crabbe](https://www.youtube.com/watch?v=RiRrcCUyn4M) [VIDEO][ENG][🗺️](../mind-maps/composition_vs_inheritance.mm.md)
 * Legacy code: [Surviving a legacy codebase: tactics and tools - Paolo D'Incau, Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw) [VIDEO][ENG]
 * [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt) [ARTICLE][ENG]
 

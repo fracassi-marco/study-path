@@ -20,3 +20,4 @@
 ### What if we add a method to the server that is not relevant to all clients?
 ### What's the difference between interface and abstract class?
 ### Which is easier to read and understand?
+### What about downcasting?
