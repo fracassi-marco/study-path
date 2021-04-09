@@ -9,8 +9,7 @@
 ## DRY
 ### Single, unambiguous, and authoritative representation
 #### Avoid inconsistencies
-#### Potentially
-#### Hard-to-find bugs
+#### Potentially hard-to-find bugs
 ### Not only code
 ## Shy
 ### Avoid unwanted coupling

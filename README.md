@@ -9,6 +9,7 @@
 * [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://amzn.to/3sClncL) [BOOK][ENG]
 * [OOP Principles: Composition vs Inheritance - Dave Crabbe](https://www.youtube.com/watch?v=RiRrcCUyn4M) [VIDEO][ENG]
 * Legacy code: [Surviving a legacy codebase: tactics and tools - Paolo D'Incau, Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw) [VIDEO][ENG]
+* [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt) [ARTICLE][ENG]
 
 ## Practices
 * [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) [BOOK][ENG]
@@ -26,6 +27,8 @@
 * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) [VIDEO][ITA]
 * CQRS and event sourcing: [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) [VIDEO][ITA]
 * Event sourcing and testing: [Come testare il comportamento del dominio- Alessandro Colla e Alberto Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) [VIDEO][ITA]
+* [Architetture Sacrificali - Francesco Strazzullo](https://vimeo.com/198014611) [VIDEO][ITA]
+* [Da SOAP a REST - Paolo Perrotta](https://vimeo.com/95581016) [VIDEO][ITA]
 
 ## Tech
 
