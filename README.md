@@ -2,7 +2,7 @@
 
 # Study Path
 
-## Code design
+## 💻 Code design
 * [Clean Code - Robert Martin](https://amzn.to/3u4A3BH) 📗🇬🇧
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) 📗🇬🇧
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) 📰🇬🇧[🗺️](mind-maps/keep_it_dry_shy_and_tell_the_other_guy.mm.md)
@@ -13,26 +13,26 @@
 * Legacy code: [Surviving a legacy codebase: tactics and tools - Paolo D'Incau, Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw) 🎥🇬🇧
 * [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt) 📰🇬🇧[🗺️](mind-maps/you_arent_gonna_need_it.mm.md)
 
-## Practices
+## 💪 Practices
 * [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) 📗🇬🇧
 * Split user story: [Responsive design e analisi XP by Matteo Vaccari](https://www.youtube.com/watch?v=4L9aL_W-Uo0) 🎥🇮🇹
 * [Continuous Integration vs Feature Branch Workflow - Dave Farley](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=1s) 🎥🇬🇧
 * Journal: [Vivere per raccontarla: l’importanza del daily journal in un team agile - Pietro di Bello](https://vimeo.com/195952480) 🎥🇮🇹
 * Collective ownership: [I terribili “guardiani della codebase” - Paolo D’Incau](https://vimeo.com/259162101) 🎥🇮🇹
 
-## Agile
+## 🔁 Agile
 * Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) 📰🇬🇧
 * Agile: [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) 📰🇬🇧
 * [Perché è così difficile fare Extreme Programming - Matteo Vaccari](https://vimeo.com/113090009) 🎥🇬🇧
 
-## Achitectures
+## 🧱 Achitectures
 * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) 🎥🇮🇹
 * CQRS and event sourcing: [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
 * Event sourcing and testing: [Come testare il comportamento del dominio- Alessandro Colla e Alberto Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
 * [Architetture Sacrificali - Francesco Strazzullo](https://vimeo.com/198014611) 🎥🇮🇹
 * [Da SOAP a REST - Paolo Perrotta](https://vimeo.com/95581016) 🎥🇮🇹
 
-## Tech
+## 🚀 Tech
 
 ### Cloud Native
 * [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU) 🎥🇬🇧
