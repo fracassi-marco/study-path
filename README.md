@@ -27,8 +27,8 @@
 
 ## 🧱 Achitectures
 * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) 🎥🇮🇹
-* CQRS and event sourcing: [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
-* Event sourcing and testing: [Come testare il comportamento del dominio- Alessandro Colla e Alberto Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
+* [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
+* Event sourcing and testing: [Come testare il comportamento del dominio- Ale. Colla e Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
 * [Architetture Sacrificali - Francesco Strazzullo](https://vimeo.com/198014611) 🎥🇮🇹
 * [Da SOAP a REST - Paolo Perrotta](https://vimeo.com/95581016) 🎥🇮🇹
 
