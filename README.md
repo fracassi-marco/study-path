@@ -1,22 +1,20 @@
-- 🗺️ -> Mind map: ope it with [markmap](https://markmap.js.org/)
-- 🎥 -> Video
-- 📰 -> Article
+🎥 -> Video &emsp; 📰 -> Article &emsp; 📗 -> Book &emsp; 🗺️ -> Mind map: open it with [markmap](https://markmap.js.org/)
 
 # Study Path
 
 ## Code design
-* [Clean Code - Robert Martin](https://amzn.to/3u4A3BH) [BOOK]🇬🇧
-* [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) [BOOK]🇬🇧
+* [Clean Code - Robert Martin](https://amzn.to/3u4A3BH) 📗🇬🇧
+* [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) 📗🇬🇧
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) 📰🇬🇧[🗺️](mind-maps/keep_it_dry_shy_and_tell_the_other_guy.mm.md)
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 🎥🇬🇧
 * [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) 📰🇬🇧[🗺️](mind-maps/the_four_elements_of_simple_design.mm.md)
-* [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://amzn.to/3sClncL) [BOOK]🇬🇧
+* [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://amzn.to/3sClncL) 📗🇬🇧
 * [OOP Principles: Composition vs Inheritance - Dave Crabbe](https://www.youtube.com/watch?v=RiRrcCUyn4M) 🎥🇬🇧[🗺️](mind-maps/composition_vs_inheritance.mm.md)
 * Legacy code: [Surviving a legacy codebase: tactics and tools - Paolo D'Incau, Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw) 🎥🇬🇧
 * [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt) 📰🇬🇧[🗺️](mind-maps/you_arent_gonna_need_it.mm.md)
 
 ## Practices
-* [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) [BOOK]🇬🇧
+* [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) 📗🇬🇧
 * Split user story: [Responsive design e analisi XP by Matteo Vaccari](https://www.youtube.com/watch?v=4L9aL_W-Uo0) 🎥🇮🇹
 * [Continuous Integration vs Feature Branch Workflow - Dave Farley](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=1s) 🎥🇬🇧
 * Journal: [Vivere per raccontarla: l’importanza del daily journal in un team agile - Pietro di Bello](https://vimeo.com/195952480) 🎥🇮🇹
