@@ -45,3 +45,13 @@
 
 ### Versioning
 * [Understanding Git - Paolo Perrotta](https://www.youtube.com/watch?v=nHkLxts9Mu4) 🎥🇬🇧
+
+### Kotlin
+* [E se provassi Kotlin? - Damiano Salvi](https://vimeo.com/showcase/5610893/video/307456600) 🎥🇮🇹
+
+## 😎 My talks
+* [Team non si nasce ma si diventa](https://vimeo.com/115507953) 🎥🇮🇹
+* [Agile è chi agile fa](https://vimeo.com/330730685) 🎥🇮🇹
+* [Evoluzione del pair programming in un team (quasi) decennale](https://vimeo.com/showcase/5610893/video/307448093) 🎥🇮🇹
+* [In Code we trust](https://vimeo.com/showcase/6668137/video/380836477) 🎥🇮🇹
+* [Artifacts evolution](https://vimeo.com/346386237) 🎥🇮🇹
