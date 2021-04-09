@@ -26,6 +26,7 @@
 * [Perché è così difficile fare Extreme Programming - Matteo Vaccari](https://vimeo.com/113090009) 🎥🇬🇧
 
 ## 🧱 Achitectures
+* [Release It!: Design and Deploy Production-Ready Software - Michael Nygard](https://amzn.to/3taMXhO) 📗🇬🇧
 * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) 🎥🇮🇹
 * [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
 * Event sourcing and testing: [Come testare il comportamento del dominio- Ale. Colla e Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
