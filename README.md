@@ -12,6 +12,7 @@
 * [OOP Principles: Composition vs Inheritance - Dave Crabbe](https://www.youtube.com/watch?v=RiRrcCUyn4M) 🎥🇬🇧[🗺️](mind-maps/composition_vs_inheritance.mm.md)
 * Legacy code: [Surviving a legacy codebase: tactics and tools - Paolo D'Incau, Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw) 🎥🇬🇧
 * [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt) 📰🇬🇧[🗺️](mind-maps/you_arent_gonna_need_it.mm.md)
+* [TDD is not about testing - Gianluca Padovani](https://vimeo.com/showcase/6668137/video/380836309) 🎥🇮🇹
 
 ## 💪 Practices
 * [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) 📗🇬🇧
