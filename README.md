@@ -4,6 +4,7 @@
 
 ## 💻 Code design
 * [Clean Code - Robert Martin](https://amzn.to/3u4A3BH) 📗🇬🇧
+* [The Cycles of TDD - Robert Martin](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) 📰🇬🇧
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) 📗🇬🇧
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) 📰🇬🇧[🗺️](mind-maps/keep_it_dry_shy_and_tell_the_other_guy.mm.md)
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 🎥🇬🇧
@@ -20,6 +21,7 @@
 * [Continuous Integration vs Feature Branch Workflow - Dave Farley](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=1s) 🎥🇬🇧
 * Journal: [Vivere per raccontarla: l’importanza del daily journal in un team agile - Pietro di Bello](https://vimeo.com/195952480) 🎥🇮🇹
 * Collective ownership: [I terribili “guardiani della codebase” - Paolo D’Incau](https://vimeo.com/259162101) 🎥🇮🇹
+* Remove accidental complication: [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development - J.B. Rainsberger](https://www.youtube.com/watch?v=WSes_PexXcA) 🎥🇬🇧
 
 ## 🔁 Agile
 * Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) 📰🇬🇧
