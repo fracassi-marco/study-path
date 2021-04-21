@@ -1,4 +1,4 @@
-🎥 -> Video &emsp; 📰 -> Article &emsp; 📗 -> Book &emsp; 🗺️ -> Mind map: [.md](https://markmap.js.org/)[.xmind](https://www.xmind.net/)
+🎥 -> Video &emsp; 📰 -> Article &emsp; 📗 -> Book &emsp; 🗺️ -> Mind map: [[.md](https://markmap.js.org/)][[.xmind](https://www.xmind.net/)]
 
 # Study Path
 
