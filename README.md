@@ -26,7 +26,7 @@
 
 ## 🔁 Agile
 * Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) 📰🇬🇧
-* Agile: [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) 📰🇬🇧
+* Agile: [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) 📰🇬🇧[🗺️](mind-maps/iterative_and_incremental_development_2.xmind)
 * [Perché è così difficile fare Extreme Programming - Matteo Vaccari](https://vimeo.com/113090009) 🎥🇬🇧
 
 ## 🧱 Achitectures
