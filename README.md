@@ -41,6 +41,7 @@
 
 ### Cloud Native
 * [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU) 🎥🇬🇧
+* [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) 🎥🇬🇧
 * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
 
 ### Persistence
