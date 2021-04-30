@@ -31,30 +31,27 @@
 
 ## 🧱 Achitectures
 * [Release It!: Design and Deploy Production-Ready Software - Michael Nygard](https://amzn.to/3taMXhO) 📗🇬🇧
-* Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) 🎥🇮🇹
-* [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
-* Event sourcing and testing: [Come testare il comportamento del dominio- Ale. Colla & Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
+* [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU) 🎥🇬🇧
 * [Architetture Sacrificali - Francesco Strazzullo](https://vimeo.com/198014611) 🎥🇮🇹
 * [Da SOAP a REST - Paolo Perrotta](https://vimeo.com/95581016) 🎥🇮🇹
+- ### Microservices
+  * [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) 🎥🇬🇧
+  * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
+  * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) 🎥🇮🇹
+- ### CQRS & Event Sourcing
+  * [Event Sourcing - Martin Fowler](https://www.youtube.com/watch?v=aweV9FLTZkU) 🎥🇬🇧
+  * [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
+  * Event sourcing and testing: [Come testare il comportamento del dominio- Ale. Colla & Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
 
 ## 🚀 Tech
-
-### Cloud Native
-* [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU) 🎥🇬🇧
-* [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) 🎥🇬🇧
-* [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
-
-### Persistence
-* [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) 🎥🇮🇹
-
-### IA/Machine learning
-* [Il Machine Learning spiegato agli umani - Paolo Perrotta](https://www.youtube.com/watch?v=V55B3thsz3I) 🎥🇮🇹
-
-### Versioning
-* [Understanding Git - Paolo Perrotta](https://www.youtube.com/watch?v=nHkLxts9Mu4) 🎥🇬🇧
-
-### Kotlin
-* [E se provassi Kotlin? - Damiano Salvi](https://vimeo.com/showcase/5610893/video/307456600) 🎥🇮🇹
+- ### Persistence
+  * [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) 🎥🇮🇹
+- ### IA/Machine learning
+  * [Il Machine Learning spiegato agli umani - Paolo Perrotta](https://www.youtube.com/watch?v=V55B3thsz3I) 🎥🇮🇹
+- ### Versioning
+  * [Understanding Git - Paolo Perrotta](https://www.youtube.com/watch?v=nHkLxts9Mu4) 🎥🇬🇧
+- ### Kotlin
+  * [E se provassi Kotlin? - Damiano Salvi](https://vimeo.com/showcase/5610893/video/307456600) 🎥🇮🇹
 
 ## 😎 My talks
 * [Team non si nasce ma si diventa](https://vimeo.com/115507953) 🎥🇮🇹
