@@ -4,7 +4,7 @@
 
 ## 💻 Code design
 * [Clean Code - Robert Martin](https://amzn.to/3u4A3BH) 📗🇬🇧
-* [The Cycles of TDD - Robert Martin](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) 📰🇬🇧
+* [The Cycles of TDD - Robert Martin](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) 📰🇬🇧[🗺️](mind-maps/the_cycles_of_TDD.xmind)
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) 📗🇬🇧
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) 📰🇬🇧[🗺️](mind-maps/keep_it_dry_shy_and_tell_the_other_guy.mm.md)
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 🎥🇬🇧
