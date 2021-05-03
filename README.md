@@ -41,7 +41,7 @@
 - ### CQRS & Event Sourcing
   * [Event Sourcing - Martin Fowler](https://www.youtube.com/watch?v=aweV9FLTZkU) 🎥🇬🇧
   * [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
-  * Event sourcing and testing: [Come testare il comportamento del dominio- Ale. Colla & Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
+  * [Come testare il comportamento del dominio- Ale. Colla & Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
 
 ## 🚀 Tech
 - ### Persistence
