@@ -60,3 +60,7 @@
 * [Evoluzione del pair programming in un team (quasi) decennale](https://vimeo.com/showcase/5610893/video/307448093) 🎥🇮🇹
 * [In Code we trust](https://vimeo.com/showcase/6668137/video/380836477) 🎥🇮🇹
 * [Artifacts evolution](https://vimeo.com/346386237) 🎥🇮🇹
+
+## 👾 Coding Katas
+* [String Calculator (Clojure)](https://github.com/fracassi-marco/String-Calculator-Kata-in-Clojure)
+* [Birthday Greetings (Kotlin)](https://github.com/fracassi-marco/birthday-greetings-kata-kotlin)
