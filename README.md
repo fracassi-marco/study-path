@@ -43,6 +43,7 @@
   * [Event Sourcing - Martin Fowler](https://www.youtube.com/watch?v=aweV9FLTZkU) 🎥🇬🇧
   * [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
   * [Come testare il comportamento del dominio- Ale. Colla & Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
+  * [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)🎥🇬🇧
 
 ## 🚀 Tech
 - ### Persistence
