@@ -8,6 +8,7 @@
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) 📗🇬🇧
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) 📰🇬🇧[🗺️](mind-maps/keep_it_dry_shy_and_tell_the_other_guy.mm.md)
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 🎥🇬🇧
+* [Low Coupling, High Cohesion - Ivan Montiel](https://medium.com/clarityhub/low-coupling-high-cohesion-3610e35ac4a6)📰🇬🇧[🗺️](low_coupling_high_cohesion.xmind)
 * [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) 📰🇬🇧[🗺️](mind-maps/the_four_elements_of_simple_design.mm.md)
 * [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://amzn.to/3sClncL) 📗🇬🇧
 * [OOP Principles: Composition vs Inheritance - Dave Crabbe](https://www.youtube.com/watch?v=RiRrcCUyn4M) 🎥🇬🇧[🗺️](mind-maps/composition_vs_inheritance.mm.md)
