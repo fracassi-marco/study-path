@@ -30,7 +30,7 @@
 * Agile: [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) 📰🇬🇧[🗺️](mind-maps/iterative_and_incremental_development_2.xmind)
 * [Perché è così difficile fare Extreme Programming - Matteo Vaccari](https://vimeo.com/113090009) 🎥🇬🇧
 * Cosa rimarrà di Agile? [Keynote IAD 2010 - Paolo Perrota](https://vimeo.com/96382289) 🎥🇮🇹
-* [Gli schiacciatori NON parlano dell'alzata, la risolvono - Julio Velasco](https://www.youtube.com/watch?v=5RXX-PiifXY)
+* [Gli schiacciatori NON parlano dell'alzata, la risolvono - Julio Velasco](https://www.youtube.com/watch?v=5RXX-PiifXY)🎥🇮🇹
 
 ## 🧱 Achitectures
 * [Release It!: Design and Deploy Production-Ready Software - Michael Nygard](https://amzn.to/3taMXhO) 📗🇬🇧
