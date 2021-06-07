@@ -24,7 +24,7 @@
 * Journal: [Vivere per raccontarla: l’importanza del daily journal in un team agile - Pietro di Bello](https://vimeo.com/195952480) 🎥🇮🇹
 * Collective ownership: [I terribili “guardiani della codebase” - Paolo D’Incau](https://vimeo.com/259162101) 🎥🇮🇹
 * Remove accidental complication: [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development - J.B. Rainsberger](https://www.youtube.com/watch?v=WSes_PexXcA) 🎥🇬🇧[🗺️](mind-maps/fundamental_theorem_of_agile_software_development.xmind)
-* [Mocks Aren't Stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)📰🇬🇧
+* [Mocks Aren't Stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html) 📰🇬🇧
 
 ## 🔁 Agile
 * Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) 📰🇬🇧
@@ -42,6 +42,7 @@
   * [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) 🎥🇬🇧
   * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
   * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) 🎥🇮🇹
+  * [The Twelve-Factor App](https://12factor.net/) 📰🇬🇧
 - ### CQRS & Event Sourcing
   * [Event Sourcing - Martin Fowler](https://www.youtube.com/watch?v=aweV9FLTZkU) 🎥🇬🇧
   * [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
