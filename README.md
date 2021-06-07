@@ -48,6 +48,8 @@
   * [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
   * [Come testare il comportamento del dominio- Ale. Colla & Alb. Acerbis](https://www.youtube.com/watch?v=-_CeNjBNvG4) 🎥🇮🇹
   * [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)🎥🇬🇧
+- ### Domain Driven Design
+  * [How to write a Repository](https://philcalcado.com/2010/12/23/how_to_write_a_repository.html) 📰🇬🇧
 
 ## 🚀 Tech
 - ### Persistence
