@@ -24,6 +24,7 @@
 * Journal: [Vivere per raccontarla: l’importanza del daily journal in un team agile - Pietro di Bello](https://vimeo.com/195952480) 🎥🇮🇹
 * Collective ownership: [I terribili “guardiani della codebase” - Paolo D’Incau](https://vimeo.com/259162101) 🎥🇮🇹
 * Remove accidental complication: [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development - J.B. Rainsberger](https://www.youtube.com/watch?v=WSes_PexXcA) 🎥🇬🇧[🗺️](mind-maps/fundamental_theorem_of_agile_software_development.xmind)
+* [Mocks Aren't Stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)📰🇬🇧
 
 ## 🔁 Agile
 * Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) 📰🇬🇧
