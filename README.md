@@ -17,6 +17,8 @@
 * [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt) 📰🇬🇧[🗺️](mind-maps/you_arent_gonna_need_it.mm.md)
 * [TDD is not about testing - Gianluca Padovani](https://vimeo.com/showcase/6668137/video/380836309) 🎥🇮🇹
 * [Boost your OOP with FP - Uberto Barbini](https://vimeo.com/showcase/1756292/video/32907017) 🎥🇮🇹
+- ### Solid priciples
+  * [The Open-Closed Principle - Robert Martin](resources/solid_ocp.pdf) 📰🇬🇧
 
 ## 💪 Practices
 * [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) 📗🇬🇧
