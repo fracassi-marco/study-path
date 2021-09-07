@@ -37,6 +37,7 @@
 * [Perché è così difficile fare Extreme Programming - Matteo Vaccari](https://vimeo.com/113090009) 🎥🇬🇧
 * Cosa rimarrà di Agile? [Keynote IAD 2010 - Paolo Perrota](https://vimeo.com/96382289) 🎥🇮🇹
 * [Gli schiacciatori NON parlano dell'alzata, la risolvono - Julio Velasco](https://www.youtube.com/watch?v=5RXX-PiifXY)🎥🇮🇹
+* [The Elephant Carpaccio - Alessandro Giardina](https://www.intre.it/2020/04/28/the-elephant-carpaccio-exercise/) 📰🇮🇹
 
 ## 🧱 Achitectures
 * [Release It!: Design and Deploy Production-Ready Software - Michael Nygard](https://amzn.to/3taMXhO) 📗🇬🇧
