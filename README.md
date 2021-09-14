@@ -17,12 +17,16 @@
 * [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt) 📰🇬🇧[🗺️](mind-maps/you_arent_gonna_need_it.mm.md)
 * [TDD is not about testing - Gianluca Padovani](https://vimeo.com/showcase/6668137/video/380836309) 🎥🇮🇹
 * [Boost your OOP with FP - Uberto Barbini](https://vimeo.com/showcase/1756292/video/32907017) 🎥🇮🇹
+* [Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/design_principles_and_design_patterns.pdf) 📰🇬🇧
 - ### Solid priciples
   * [The Single Responsibility Principle - Robert Martin](resources/solid_srp.pdf) 📰🇬🇧
   * [The Open-Closed Principle - Robert Martin](resources/solid_ocp.pdf) 📰🇬🇧
   * [The Liskov Substitution Principle - Robert Martin](resources/solid_lsp.pdf) 📰🇬🇧
   * [The Interface Segregation Principle - Robert Martin](resources/solid_isp.pdf) 📰🇬🇧
   * [The Dependency Inversion Principle - Robert Martin](resources/solid_dip.pdf) 📰🇬🇧
+- ### Design patterns
+  * [Design Pattern: Template Method - Alexander Shvets](https://refactoring.guru/design-patterns/template-method) 📰🇬🇧
+  * [Design Pattern: Strategy - Alexander Shvets](https://refactoring.guru/design-patterns/strategy) 📰🇬🇧
 
 ## 💪 Practices
 * [eXtreme Programming Explained - Kent Beck](https://amzn.to/3czziL3) 📗🇬🇧
