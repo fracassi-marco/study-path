@@ -42,6 +42,7 @@
 ## 🔁 Agile
 * Waterfall: [Iterative and Incremental Development - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) 📰🇬🇧
 * Agile: [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) 📰🇬🇧[🗺️](mind-maps/iterative_and_incremental_development_2.xmind)
+* [Card, Conversation, Confirmation - Ron Jeffries](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) 📰🇬🇧
 * [Perché è così difficile fare Extreme Programming - Matteo Vaccari](https://vimeo.com/113090009) 🎥🇬🇧
 * Cosa rimarrà di Agile? [Keynote IAD 2010 - Paolo Perrota](https://vimeo.com/96382289) 🎥🇮🇹
 * [Gli schiacciatori NON parlano dell'alzata, la risolvono - Julio Velasco](https://www.youtube.com/watch?v=5RXX-PiifXY)🎥🇮🇹
