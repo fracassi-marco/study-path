@@ -77,6 +77,9 @@
 - ### Kotlin
   * [E se provassi Kotlin? - Damiano Salvi](https://vimeo.com/showcase/5610893/video/307456600) 🎥🇮🇹
 
+## ⛰️ Other
+* [Analisi transazionale: genitore, adulto, bambino - Myriam Lopa](https://youtu.be/X34TQW8-MAg) 🎥🇮🇹
+
 ## 😎 My talks
 * [Team non si nasce ma si diventa](https://vimeo.com/115507953) 🎥🇮🇹
 * [Agile è chi agile fa](https://vimeo.com/330730685) 🎥🇮🇹
