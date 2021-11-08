@@ -7,6 +7,7 @@
 * [The Cycles of TDD - Robert Martin](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) 📰🇬🇧[🗺️](mind-maps/the_cycles_of_TDD.xmind)
 * [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY) 📗🇬🇧
   * Principles in refactoring [🗺️](mind-maps/principles_in_refactoring.xmind)
+* [The deep synergy between testability and good design - Michael Feathers](https://www.youtube.com/watch?v=4cVZvoFGJTU)  🎥🇬🇧
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt, Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf) 📰🇬🇧[🗺️](mind-maps/keep_it_dry_shy_and_tell_the_other_guy.mm.md)
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 🎥🇬🇧
 * [Low Coupling, High Cohesion - Ivan Montiel](https://medium.com/clarityhub/low-coupling-high-cohesion-3610e35ac4a6)📰🇬🇧[🗺️](low_coupling_high_cohesion.xmind)
@@ -47,6 +48,7 @@
 * Cosa rimarrà di Agile? [Keynote IAD 2010 - Paolo Perrota](https://vimeo.com/96382289) 🎥🇮🇹
 * [Gli schiacciatori NON parlano dell'alzata, la risolvono - Julio Velasco](https://www.youtube.com/watch?v=5RXX-PiifXY)🎥🇮🇹
 * [The Elephant Carpaccio - Alessandro Giardina](https://www.intre.it/2020/04/28/the-elephant-carpaccio-exercise/) 📰🇮🇹
+* [Extreme Programming 20 years later - Kent Beck](https://www.youtube.com/watch?v=cGuTmOUdFbo) 🎥🇬🇧
 
 ## 🧱 Achitectures
 * [Release It!: Design and Deploy Production-Ready Software - Michael Nygard](https://amzn.to/3taMXhO) 📗🇬🇧
