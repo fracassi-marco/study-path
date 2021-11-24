@@ -89,6 +89,7 @@
 * [In Code we trust](https://vimeo.com/showcase/6668137/video/380836477) 🎥🇮🇹
 * [Artifacts evolution](https://vimeo.com/346386237) 🎥🇮🇹
 * [Metafora, questa sconosciuta](https://www.youtube.com/watch?v=YnJ00trKRzw) 🎥🇮🇹
+* [Ma diamo i numeri? Le misure nel software](https://www.youtube.com/watch?v=gYNIs341O0k) 🎥🇮🇹
 
 ## 👾 Coding Katas
 * [String Calculator (Clojure)](https://github.com/fracassi-marco/String-Calculator-Kata-in-Clojure)
