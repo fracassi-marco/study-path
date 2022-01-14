@@ -12,6 +12,7 @@
 * [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 🎥🇬🇧
 * [Low Coupling, High Cohesion - Ivan Montiel](https://medium.com/clarityhub/low-coupling-high-cohesion-3610e35ac4a6)📰🇬🇧[🗺️](low_coupling_high_cohesion.xmind)
 * [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) 📰🇬🇧[🗺️](mind-maps/the_four_elements_of_simple_design.mm.md)
+* [Matteo Vaccari - Accelerare lo sviluppo con il Simple Design](https://www.youtube.com/watch?v=mA9XIxyR1OU&t=2456s) 🎥🇮🇹
 * [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://amzn.to/3sClncL) 📗🇬🇧
 * [OOP Principles: Composition vs Inheritance - Dave Crabbe](https://www.youtube.com/watch?v=RiRrcCUyn4M) 🎥🇬🇧[🗺️](mind-maps/composition_vs_inheritance.mm.md)
 * Legacy code: [Surviving a legacy codebase: tactics and tools - Paolo D'Incau, Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw) 🎥🇬🇧
