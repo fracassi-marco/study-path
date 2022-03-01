@@ -69,6 +69,7 @@
 - ### Domain Driven Design
   * [Implementing Domain-Driven Design - Vaughn Vernon](https://amzn.to/2TCpSaD) 📗🇬🇧
   * [How to write a Repository - Phil Calçado](https://philcalcado.com/2010/12/23/how_to_write_a_repository.html) 📰🇬🇧
+  * [Intro, cos’è cambiato dal libro ad oggi, cos’è DDD oggi - Alberto Brandolini](https://vimeo.com/showcase/1721725/video/30333653) 🎥🇮🇹
 
 ## 🚀 Tech
 - ### Persistence
