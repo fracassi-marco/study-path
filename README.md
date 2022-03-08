@@ -98,3 +98,4 @@
 * [Birthday Greetings (Kotlin)](https://github.com/fracassi-marco/birthday-greetings-kata-kotlin)
 * [Tennis Refactoring (Java)](https://github.com/fracassi-marco/tennis-refactoring-kata-java)
 * [Tennis Refactoring with Calisthenics rules (Java)](https://github.com/fracassi-marco/tennis-refactoring-kata-java/tree/calisthenics-rules)
+* [Bowling Score Kata with OCP rules (Kotlin)](https://github.com/fracassi-marco/Bowling-Score-Kata)
