@@ -99,3 +99,4 @@
 * [Tennis Refactoring (Java)](https://github.com/fracassi-marco/tennis-refactoring-kata-java)
 * [Tennis Refactoring with Calisthenics rules (Java)](https://github.com/fracassi-marco/tennis-refactoring-kata-java/tree/calisthenics-rules)
 * [Bowling Score Kata with OCP rules (Kotlin)](https://github.com/fracassi-marco/Bowling-Score-Kata)
+* [Game of Life Kata (Kotlin)](https://github.com/fracassi-marco/Game-Of-Life-Kata-Kotlin)
