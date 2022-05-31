@@ -96,7 +96,8 @@
 
 ## 👾 Coding Katas
 * [String Calculator (Clojure)](https://github.com/fracassi-marco/String-Calculator-Kata-in-Clojure)
-* [Birthday Greetings (Kotlin)](https://github.com/fracassi-marco/birthday-greetings-kata-kotlin)
+* [Birthday Greetings - from scratch (Kotlin)](https://github.com/fracassi-marco/birthday-greetings-kata-kotlin)
+* [Birthday Greetings - refactoring (Kotlin)](https://github.com/fracassi-marco/birthday-greetings-kata-kotlin-edition/tree/solution)
 * [Tennis Refactoring (Java)](https://github.com/fracassi-marco/tennis-refactoring-kata-java)
 * [Tennis Refactoring with Calisthenics rules (Java)](https://github.com/fracassi-marco/tennis-refactoring-kata-java/tree/calisthenics-rules)
 * [Bowling Score Kata with OCP rules (Kotlin)](https://github.com/fracassi-marco/Bowling-Score-Kata)
