@@ -57,6 +57,7 @@
 * [What is this cloud native thing anyway? - Sam Newman](https://www.youtube.com/watch?v=PuDE99ue8SU) 🎥🇬🇧
 * [Architetture Sacrificali - Francesco Strazzullo](https://vimeo.com/198014611) 🎥🇮🇹
 * [Da SOAP a REST - Paolo Perrotta](https://vimeo.com/95581016) 🎥🇮🇹
+* [Onion Architecture - Matteo Di Tucci](https://www.youtube.com/watch?v=VjNrqU40qH4) 🎥🇮🇹[🗺️](mind-maps/onion_architecture.xmind)
 - ### Microservices
   * [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) 🎥🇬🇧
   * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
