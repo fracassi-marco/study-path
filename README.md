@@ -58,6 +58,7 @@
 * [Architetture Sacrificali - Francesco Strazzullo](https://vimeo.com/198014611) 🎥🇮🇹
 * [Da SOAP a REST - Paolo Perrotta](https://vimeo.com/95581016) 🎥🇮🇹
 * [Onion Architecture - Matteo Di Tucci](https://www.youtube.com/watch?v=VjNrqU40qH4) 🎥🇮🇹[🗺️](mind-maps/onion_architecture.xmind)
+* [What Are Reactive Systems? - Dave Farley](https://www.youtube.com/watch?v=eRxLfUIMJwk) 🎥🇬🇧[🗺️](mind-maps/what-are-reactive-systems.xmind)
 - ### Microservices
   * [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) 🎥🇬🇧
   * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
