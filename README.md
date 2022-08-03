@@ -58,7 +58,6 @@
 * [Architetture Sacrificali - Francesco Strazzullo](https://vimeo.com/198014611) 🎥🇮🇹
 * [Da SOAP a REST - Paolo Perrotta](https://vimeo.com/95581016) 🎥🇮🇹
 * [Onion Architecture - Matteo Di Tucci](https://www.youtube.com/watch?v=VjNrqU40qH4) 🎥🇮🇹[🗺️](mind-maps/onion_architecture.xmind)
-* [What Are Reactive Systems? - Dave Farley](https://www.youtube.com/watch?v=eRxLfUIMJwk) 🎥🇬🇧[🗺️](mind-maps/what-are-reactive-systems.xmind)
 - ### Microservices
   * [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) 🎥🇬🇧
   * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
@@ -73,7 +72,9 @@
   * [Implementing Domain-Driven Design - Vaughn Vernon](https://amzn.to/2TCpSaD) 📗🇬🇧
   * [How to write a Repository - Phil Calçado](https://philcalcado.com/2010/12/23/how_to_write_a_repository.html) 📰🇬🇧
   * [Intro, cos’è cambiato dal libro ad oggi, cos’è DDD oggi - Alberto Brandolini](https://vimeo.com/showcase/1721725/video/30333653) 🎥🇮🇹
-
+- ### Reactive Systems
+  * [What Are Reactive Systems? - Dave Farley](https://www.youtube.com/watch?v=eRxLfUIMJwk) 🎥🇬🇧[🗺️](mind-maps/what-are-reactive-systems.xmind)
+  * [Reactive VS Imperative - SMC](https://www.youtube.com/watch?v=bB8uLok0E_w) 🎥🇮🇹
 ## 🚀 Tech
 - ### Persistence
   * [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) 🎥🇮🇹
