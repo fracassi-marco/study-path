@@ -84,6 +84,7 @@
   * [Understanding Git - Paolo Perrotta](https://www.youtube.com/watch?v=nHkLxts9Mu4) 🎥🇬🇧
 - ### Kotlin
   * [E se provassi Kotlin? - Damiano Salvi](https://vimeo.com/showcase/5610893/video/307456600) 🎥🇮🇹
+  * [Codinglance Kotlin](https://codinglance.com/category/android/kotlin/) 📰🇬🇧
 
 ## ⛰️ Other
 * [Analisi transazionale: genitore, adulto, bambino - Myriam Lopa](https://youtu.be/X34TQW8-MAg) 🎥🇮🇹
