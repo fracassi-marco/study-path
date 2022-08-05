@@ -73,6 +73,7 @@
   * [How to write a Repository - Phil Calçado](https://philcalcado.com/2010/12/23/how_to_write_a_repository.html) 📰🇬🇧
   * [Intro, cos’è cambiato dal libro ad oggi, cos’è DDD oggi - Alberto Brandolini](https://vimeo.com/showcase/1721725/video/30333653) 🎥🇮🇹
 - ### Reactive Systems
+  * [The Reactive Manifesto](https://www.reactivemanifesto.org/en) 📰🇬🇧
   * [What Are Reactive Systems? - Dave Farley](https://www.youtube.com/watch?v=eRxLfUIMJwk) 🎥🇬🇧[🗺️](mind-maps/what-are-reactive-systems.xmind)
   * [Reactive VS Imperative - SMC](https://www.youtube.com/watch?v=bB8uLok0E_w) 🎥🇮🇹
 ## 🚀 Tech
