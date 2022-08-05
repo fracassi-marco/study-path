@@ -87,9 +87,6 @@
   * [E se provassi Kotlin? - Damiano Salvi](https://vimeo.com/showcase/5610893/video/307456600) 🎥🇮🇹
   * [Codinglance Kotlin](https://codinglance.com/category/android/kotlin/) 📰🇬🇧
 
-## ⛰️ Other
-* [Analisi transazionale: genitore, adulto, bambino - Myriam Lopa](https://youtu.be/X34TQW8-MAg) 🎥🇮🇹
-
 ## 😎 My talks
 * [Team non si nasce ma si diventa](https://vimeo.com/115507953) 🎥🇮🇹
 * [Agile è chi agile fa](https://vimeo.com/330730685) 🎥🇮🇹
@@ -107,3 +104,4 @@
 * [Tennis Refactoring with Calisthenics rules (Java)](https://github.com/fracassi-marco/tennis-refactoring-kata-java/tree/calisthenics-rules)
 * [Bowling Score Kata with OCP rules (Kotlin)](https://github.com/fracassi-marco/Bowling-Score-Kata)
 * [Game of Life Kata (Kotlin)](https://github.com/fracassi-marco/Game-Of-Life-Kata-Kotlin)
+* [Airport travellers insights service (Java)](https://github.com/fracassi-marco/airport-travellers-insights-service)
