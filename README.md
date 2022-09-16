@@ -108,3 +108,4 @@
 * [Bowling Score Kata with OCP rules (Kotlin)](https://github.com/fracassi-marco/Bowling-Score-Kata)
 * [Game of Life Kata (Kotlin)](https://github.com/fracassi-marco/Game-Of-Life-Kata-Kotlin)
 * [Airport travellers insights service (Java)](https://github.com/fracassi-marco/airport-travellers-insights-service)
+* [Land Perimeter Kata (Kotlin)](https://github.com/fracassi-marco/land-perimeter-kata)
