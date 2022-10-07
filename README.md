@@ -27,6 +27,7 @@
   * [The Interface Segregation Principle - Robert Martin](resources/solid_isp.pdf) 📰🇬🇧
   * [The Dependency Inversion Principle - Robert Martin](resources/solid_dip.pdf) 📰🇬🇧
   * [DIP in the Wild - Brett L. Schuchert](https://martinfowler.com/articles/dipInTheWild.html) 📰🇬🇧[🗺️](mind-maps/dependency_inversion_principle.xmind)
+  * [SOLID Principles Sketches - Oleksii Trekhleb](https://itnext.io/solid-principles-sketches-a38865e771f0) 📰🇬🇧
 - ### Design patterns
   * [Design Pattern: Template Method - Alexander Shvets](https://refactoring.guru/design-patterns/template-method) 📰🇬🇧
   * [Design Pattern: Strategy - Alexander Shvets](https://refactoring.guru/design-patterns/strategy) 📰🇬🇧
