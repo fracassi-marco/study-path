@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=Bq_oz7nCNUA
 https://www.youtube.com/watch?v=EZ05e7EMOLM
 https://www.youtube.com/watch?v=yFHZEGgH7Ds
 https://medium.com/@BranLim/basic-rules-for-effective-onion-architecture-a32af1f3b469
+https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
 
 https://themeforest.net/item/jacqueline-spa-massage-salon-template-kit/26203295
 https://www.inps.it/prestazioni-servizi/indennita-per-permessi-fruiti-dai-lavoratori-per-assistere-familiari-disabili-in-situazione-di-gravita-o-fruiti-dai-lavoratori-disabili-medesimi
