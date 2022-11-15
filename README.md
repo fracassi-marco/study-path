@@ -82,6 +82,7 @@
 ## 🚀 Tech
 - ### Persistence
   * [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4) 🎥🇮🇹
+  * [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth) 📰🇬🇧
 - ### IA/Machine learning
   * [Il Machine Learning spiegato agli umani - Paolo Perrotta](https://www.youtube.com/watch?v=V55B3thsz3I) 🎥🇮🇹
 - ### Versioning
