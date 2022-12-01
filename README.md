@@ -100,6 +100,7 @@
 * [Artifacts evolution](https://vimeo.com/346386237) 🎥🇮🇹
 * [Metafora, questa sconosciuta](https://www.youtube.com/watch?v=YnJ00trKRzw) 🎥🇮🇹
 * [Ma diamo i numeri? Le misure nel software](https://www.youtube.com/watch?v=gYNIs341O0k) 🎥🇮🇹
+* [L’arte dello sviluppatore](https://vimeo.com/768873513) 🎥🇮🇹
 
 ## 👾 Coding Katas
 * [String Calculator (Clojure)](https://github.com/fracassi-marco/String-Calculator-Kata-in-Clojure)
