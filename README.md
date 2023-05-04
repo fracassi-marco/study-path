@@ -20,6 +20,9 @@
 * [TDD is not about testing - Gianluca Padovani](https://vimeo.com/showcase/6668137/video/380836309) 🎥🇮🇹
 * [Boost your OOP with FP - Uberto Barbini](https://vimeo.com/showcase/1756292/video/32907017) 🎥🇮🇹
 * [Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/design_principles_and_design_patterns.pdf) 📰🇬🇧
+* [Premature Optimization - CodeAesthetic](https://www.youtube.com/watch?v=tKbV6BpH-C8) 🎥🇬🇧[🗺️](mind-maps/premature_optimization.xmind)
+* [The Flaws Of Inheritance - CodeAesthetic](https://www.youtube.com/watch?v=hxGOiiR9ZKg) 🎥🇬🇧[🗺️](mind-maps/the_flaws_of_inheritance.xmind)
+* [Why you shouldn't nest your code - CodeAesthetic](https://www.youtube.com/watch?v=CFRhGnuXG-4) 🎥🇬🇧[🗺️](mind-maps/why_you_shouldnt_nest_your_code.xmind)
 - ### Solid priciples
   * [The Single Responsibility Principle - Robert Martin](resources/solid_srp.pdf) 📰🇬🇧
   * [The Open-Closed Principle - Robert Martin](resources/solid_ocp.pdf) 📰🇬🇧
