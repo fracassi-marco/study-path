@@ -24,6 +24,7 @@
 * [The Flaws Of Inheritance - CodeAesthetic](https://www.youtube.com/watch?v=hxGOiiR9ZKg) 🎥🇬🇧[🗺️](mind-maps/the_flaws_of_inheritance.xmind)
 * [Why you shouldn't nest your code - CodeAesthetic](https://www.youtube.com/watch?v=CFRhGnuXG-4) 🎥🇬🇧[🗺️](mind-maps/why_you_shouldnt_nest_your_code.xmind)
 * [Naming things in code - CodeAesthetic](https://www.youtube.com/watch?v=-J3wNP6u5YU) 🎥🇬🇧[🗺️](mind-maps/naming_things_in_code.xmind)
+* [Don't write comments - CodeAesthetic](https://www.youtube.com/watch?v=Bf7vDBBOBUA) 🎥🇬🇧[🗺️](mind-maps/dont_write_comments.xmind)
 - ### Solid priciples
   * [The Single Responsibility Principle - Robert Martin](resources/solid_srp.pdf) 📰🇬🇧
   * [The Open-Closed Principle - Robert Martin](resources/solid_ocp.pdf) 📰🇬🇧
