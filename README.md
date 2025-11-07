@@ -73,6 +73,7 @@
   * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q) 🎥🇬🇧
   * Microservices and practices: [Microservices: A developer's point of view - Uberto Barbini](https://www.youtube.com/watch?v=2uWvRFO0vW8) 🎥🇮🇹
   * [The Twelve-Factor App](https://12factor.net/) 📰🇬🇧
+  * [The Laws of Frugal Architecture](https://thefrugalarchitect.com/laws/) 📰🇬🇧
 - ### CQRS & Event Sourcing
   * [Event Sourcing - Martin Fowler](https://www.youtube.com/watch?v=aweV9FLTZkU) 🎥🇬🇧
   * [Dalla C alla Q, un evento per volta: Event Sourcing per immagini - Lorenzo Nicora](https://www.youtube.com/watch?v=_8daXQAlzd4) 🎥🇮🇹
